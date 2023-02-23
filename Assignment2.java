@@ -6,13 +6,7 @@ import java.util.List;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.Random;
 
-/**
- * Creates Binary Search Trees and AVLTrees and compares their performances.
- *
- * @author CSC330 and Maddison Tidball
- * @since August February 11, 2022. I have followed the UNCG Academic Integrity
- * policy on this assignment.
- */
+
 public class Assignment2 {
 
     /**
